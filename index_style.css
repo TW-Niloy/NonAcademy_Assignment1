@@ -677,6 +677,7 @@ body{
     font-family: Arial, sans-serif;
     color: #d5cfe9;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding-right: 2.5rem;
   }
   
   .subscribe input::placeholder {
@@ -724,6 +725,7 @@ body{
     }
   
     .subscribe input {
+        padding-right: 2.5rem;
       border-radius: 4px;
       margin-bottom: 10px;
     }
