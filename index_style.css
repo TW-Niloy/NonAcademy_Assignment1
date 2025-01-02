@@ -97,6 +97,33 @@ body{
     color: whitesmoke;
 }
 
+@media (max-width: 768px) {
+    .navbar{
+        position: relative;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        
+    }
+
+    .logo-text, .logo-text a{
+        font-size: 1.2rem;
+        order:1;
+    }
+
+    .auth-buttons{
+        order: 2;
+
+    }
+
+    .nav-links{
+        order: 3;
+        margin-top: 1rem;
+        margin-left: auto;
+    }
+}    
+
+
 /* banner section */
 
 .banner{
