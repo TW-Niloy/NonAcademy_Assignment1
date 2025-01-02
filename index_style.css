@@ -574,14 +574,14 @@ body{
     background-color: rgb(148, 13, 13);
     
 }
-git
+
 /* footer */
 
 
 .footer {
-    background-color: #030114;
+    background-color: black;
     color: #fff;
-    padding: 6rem 2rem;
+    padding: 6rem 4rem;
     margin-top: 4rem;
     font-family: Arial, sans-serif;
 }
